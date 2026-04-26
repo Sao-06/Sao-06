@@ -1,10 +1,5 @@
-```markdown
-<!--
-Profile README for: [YOUR NAME]
-Focus: IC design • semiconductor technology • nanoscale systems
--->
 
-# Hi, I’m **[Your Name]** 👋  
+# Hi, I’m Sao👋  
 🎓 Electrical Engineering student focused on **Integrated Circuit (IC) design**, **semiconductor technologies**, and **nanoscale systems**—driven by how modern electronics pack **billions of transistors** into reliable, high-performance silicon.
 
 ---
